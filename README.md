@@ -38,7 +38,7 @@ taskflow/
 |--------|----------------|------|
 | Awwal Umar Garba | CIS/STE/22/1104 | Repo setup, base skeleton, render function |
 | Muhammad Nasir Abubakar | CIS/STe/22/1103| Header section (title & tagline) and also Provided Network for the team Work
-| Member 2 | @username | Task input form |
+| Hussaini Muhammad Kabir | CIS/STE/22/1108 | Task input form |
 | Member 3 | @username | Task list container |
 | Member 4 | @username | Footer section |
 | Member 5 | @username | Basic CSS layout |
